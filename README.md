@@ -3,6 +3,7 @@
 
 Contribute to this repo by helping me design the client-side page. I'm done with back-end, and its working good.
 - I need CSS designing.
+- style.css in /public/
 
 Looking forward for some pull reqs! thanks.
 
